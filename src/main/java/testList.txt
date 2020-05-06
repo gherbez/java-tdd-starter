@@ -1,0 +1,85 @@
+1-> I
+2-> II
+4-> IV
+5-> V
+7-> VII
+9-> IX
+10 -> X
+12-> XII
+20-> XX
+49-> IL
+50-> L
+100-> C
+292-> CCXCII
+
+1) 1 doit donner I
+2) 5 doit donner V
+3) 10 doit donner X
+4) 50 doit donner L
+5) 100 doit donner C
+6) 2 doit donner II
+7) 20 doit donner XX
+8) 200 doit donner CC
+9) 4 doit donner IV
+10) 7 doit donner VII
+11) 9 doit donner IX
+12) 12 doit donner XII
+13) 49 doit donner IL
+
+
+
+    1 -> I
+    2 -> II
+    3 -> III
+    4 -> IV
+    5 -> V
+    6 -> VI
+    7 -> VII
+8 -> VIII
+9 -> IX
+10 -> X
+
+    5<7<10
+    50<70<100
+    500<700<1000
+
+    if(5<arabic<10){
+    }else
+
+    arabic entre 1 et 3
+    arabic = 4
+
+    arabic entre 6 et 8
+    arabic = 9
+
+1 4 5 9 10 40 50 90 100
+
+292 = 100 + 100 + 90 + 1 + 1
+292  = 100 + 192 = 100 + 100 + 92 = 100 + 100 + 90 +2 =
+
+
+39 = 10 +29 = 10 +10  +19 = 10 +10 +10 +9
+
+100 -> 90 = XC
+50-> 40 = XL
+90
+900
+9000
+90000
+
+5972 5000 900 70 2
+
+      200 + 90 + 2
+                CC    XC   II
+
+        int 292
+                int restant = int;
+
+                        restant 292 affiche CC enleve 200
+
+                restant 92 affiche XC enleve 90
+
+                restant 2 affiche  II eneleve 2
+
+                reste 0
+                return
